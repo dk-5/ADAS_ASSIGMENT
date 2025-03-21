@@ -44,3 +44,30 @@ o	Green circles indicating the radar-projected points.
 o	Yellow (or differently colored) markers indicating the fused centers.
 o	Overlaid alert text if the system detects a collision risk.
 These visual cues help to differentiate the steps and demonstrate how the system integrates sensor data to identify potential hazards.
+
+6. References
+1. Data Source
+KITTI Dataset (widely used in ADAS and autonomous vehicle research)
+URL: http://www.cvlibs.net/datasets/kitti/
+The dataset includes camera images, LIDAR point clouds, radar data, and calibration files.
+Calibration files like calib.txt are used in the code for projection calculations.
+2. Object Detection Model
+YOLOv5 (You Only Look Once version 5) by Ultralytics
+GitHub Repository: https://github.com/ultralytics/yolov5
+Model Weights: Available for various sizes (YOLOv5s, YOLOv5m, YOLOv5l, etc.)
+The code likely used the yolov5s.pt model, which is a lightweight and fast-performing variant of YOLOv5.
+3. Sensor Fusion Techniques
+The code utilizes calibration matrices for projecting radar/LIDAR points into the camera image plane.
+Detailed references for KITTI calibration techniques:
+KITTI Calibration Documentation: http://www.cvlibs.net/datasets/kitti/setup.php
+4. Libraries and Frameworks
+PyTorch: Used for loading and running the YOLOv5 model.
+https://pytorch.org/
+OpenCV: Used for image loading, drawing, and visualization.
+https://opencv.org/
+NumPy: Utilized for numerical computations and array manipulations.
+https://numpy.org/
+5. Collision Avoidance Techniques
+The code appears to be designed with simple logic for identifying obstructions and triggering alerts. For advanced ADAS techniques, these resources might be useful:
+Path Planning Algorithms (e.g., RRT, A)**: https://github.com/AtsushiSakai/PythonRobotics
+Obstacle Detection in ADAS Research Papers: IEEE Xplore or arXiv provide robust papers on collision avoidance techniques.
