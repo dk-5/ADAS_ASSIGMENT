@@ -1,0 +1,1 @@
+HIGH: Collision warning: Pedestrian at 8.73m (in path), TTC: 0.63s - Action: BRAKE

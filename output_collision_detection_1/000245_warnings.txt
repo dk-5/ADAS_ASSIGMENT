@@ -1,0 +1,1 @@
+MEDIUM: Collision warning: Cyclist at 27.39m (in path), TTC: 1.98s - Action: ALERT

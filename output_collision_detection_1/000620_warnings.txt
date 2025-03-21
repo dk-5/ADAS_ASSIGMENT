@@ -1,0 +1,2 @@
+HIGH: Collision warning: Car at 6.05m (in path), TTC: 0.44s - Action: BRAKE
+HIGH: Collision warning: Car at 9.60m (in path), TTC: 0.70s - Action: BRAKE

@@ -1,0 +1,1 @@
+HIGH: Collision warning: Van at 16.46m (in path), TTC: 1.19s - Action: BRAKE

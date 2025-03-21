@@ -1,0 +1,1 @@
+MEDIUM: Collision warning: Pedestrian at 23.30m (in path), TTC: 1.69s - Action: ALERT

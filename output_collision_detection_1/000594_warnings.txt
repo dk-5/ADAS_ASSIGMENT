@@ -1,0 +1,1 @@
+MEDIUM: Collision warning: Car at 22.91m (in path), TTC: 1.66s - Action: ALERT

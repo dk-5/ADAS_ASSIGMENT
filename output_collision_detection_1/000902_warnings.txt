@@ -1,0 +1,1 @@
+MEDIUM: Collision warning: Van at 28.52m (in path), TTC: 2.07s - Action: ALERT

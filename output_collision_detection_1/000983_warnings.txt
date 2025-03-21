@@ -1,0 +1,1 @@
+HIGH: Collision warning: Cyclist at 17.59m (in path), TTC: 1.27s - Action: BRAKE

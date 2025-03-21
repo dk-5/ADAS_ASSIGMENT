@@ -1,0 +1,6 @@
+MEDIUM: Collision warning: Cyclist at 22.09m (in path), TTC: 1.60s - Action: ALERT
+HIGH: Collision warning: Pedestrian at 9.73m (in path), TTC: 0.71s - Action: BRAKE
+HIGH: Collision warning: Pedestrian at 10.42m (in path), TTC: 0.76s - Action: BRAKE
+HIGH: Collision warning: Pedestrian at 10.08m (in path), TTC: 0.73s - Action: BRAKE
+HIGH: Collision warning: Pedestrian at 10.60m (in path), TTC: 0.77s - Action: BRAKE
+HIGH: Collision warning: Pedestrian at 11.16m (in path), TTC: 0.81s - Action: BRAKE

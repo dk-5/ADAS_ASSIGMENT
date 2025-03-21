@@ -1,0 +1,4 @@
+HIGH: Collision warning: Cyclist at 13.54m (in path), TTC: 0.98s - Action: BRAKE
+HIGH: Collision warning: Car at 11.93m (in path), TTC: 0.86s - Action: BRAKE
+HIGH: Collision warning: Car at 18.68m (in path), TTC: 1.35s - Action: BRAKE
+MEDIUM: Collision warning: Car at 23.47m (in path), TTC: 1.70s - Action: ALERT
